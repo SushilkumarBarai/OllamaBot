@@ -1,4 +1,3 @@
-# OllamaBot
 
 # Ollama Chat Bot with Streamlit
 
