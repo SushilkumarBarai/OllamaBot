@@ -1,3 +1,18 @@
+
+"""
+Author: Sushilkumar Barai
+Email: sushilkumarbarai123456@gmail.com
+Date: 12-11-2024
+Description: This project demonstrates a chatbot built using Streamlit and the Ollama API. 
+The bot allows users to interact with a selected Ollama model and receive real-time responses.
+ The conversation history is maintained, and the responses from the bot are streamed as they are generated.
+
+Version: 1.0.0
+"""
+
+
+
+
 import streamlit as st
 import requests
 import json
