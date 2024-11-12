@@ -10,9 +10,6 @@ The bot allows users to interact with a selected Ollama model and receive real-t
 Version: 1.0.0
 """
 
-
-
-
 import streamlit as st
 import requests
 import json
